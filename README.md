@@ -1,5 +1,7 @@
 # Unit 3 Challenge - Analysis Part 2
 
+This README contains all my notes and writings for this challenge.
+
 ### Todos
 - [x] Initial read through of spec and wireframes/ all supporting docs
 - [x] Work through the spec and wireframes, analyse requirements, think about **what** I can test
